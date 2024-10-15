@@ -15,7 +15,7 @@ db = mongo_client["TEST"]
 users_collection = db["V-5"]
 
 # Path to your binary
-BINARY_PATH = "./SPIKE"
+BINARY_PATH = "./LEGEND"
 
 # Global variables
 process = None
